@@ -1,5 +1,8 @@
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,go
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,go
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,go,dotenv
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,go,dotenv
+
+### dotenv ###
+.env
 
 ### Go ###
 # If you prefer the allow list template instead of the deny list, see community template:
@@ -43,4 +46,4 @@ go.work
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,go
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,go,dotenv
